@@ -1,0 +1,12 @@
+{
+  "name": "phoenix.js",
+  "description": "The phoenix.js from the Phoenix Framework",
+  "version": "1.1.4",
+  "homepage": "http://www.phoenixframework.org/",
+  "author": "Chris McCord",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/djthread/phoenix.js.git"
+  },
+  "main": "./dist/phoenix.js"
+}
