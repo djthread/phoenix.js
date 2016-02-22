@@ -8,5 +8,5 @@
     "type": "git",
     "url": "https://github.com/djthread/phoenix.js.git"
   },
-  "main": "./dist/phoenix.js"
+  "main": "phoenix.js"
 }
