@@ -1,7 +1,7 @@
 {
   "name": "phoenix.js",
   "description": "The phoenix.js from the Phoenix Framework",
-  "version": "1.1.4",
+  "version": "1.2.1",
   "homepage": "http://www.phoenixframework.org/",
   "author": "Chris McCord",
   "repository": {
